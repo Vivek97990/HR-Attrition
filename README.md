@@ -34,8 +34,7 @@ To use the HR Attrition Analysis Dashboard, follow these steps:
 
 1. **Install Power BI Desktop:** Download and install Power BI Desktop from the official Power BI Download Site.
 2. **Download Dataset:** Download the dataset from the link provided in the Dataset section.
-3. **Clone or Download this Repository:** Clone or download this repository to your local machine.
-4. **Open Dashboard:** Open the dashboard report file (HR-attrition-dashboard.pbix) in Power BI Desktop to access & explore the interactive dashboard's features.
+3. **Open Dashboard:** Open the dashboard report file (HR-attrition-dashboard.pbix) in Power BI Desktop to access & explore the interactive dashboard's features.
 
 ## Questions
 
